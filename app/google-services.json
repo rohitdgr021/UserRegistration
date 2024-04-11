@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223861959805",
+    "project_id": "userregistration-f573a",
+    "storage_bucket": "userregistration-f573a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223861959805:android:d32f0b23bed163c1125514",
+        "android_client_info": {
+          "package_name": "com.example.userregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lqRRCGSVxtiCqu_olsXh6Cx-lTtrhPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
